@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lumanexx
-- 👀 I’m interested in 
+- 👀 I’m interested in Devops
 - 🌱 I’m currently learning Python, Javascript, C programming Language and MYSQL
 - 💞️ I’m looking to collaborate with software and devops enginners. 
 - 📫 How to reach me techlumanex@gmail.com
