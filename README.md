@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lumanexx
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Python, Javascript, C programming Language and MYSQL
+- 💞️ I’m looking to collaborate with software and devops enginners. 
 - 📫 How to reach me techlumanex@gmail.com
 
 <!---
