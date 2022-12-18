@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lumanexx
+- 👋 Hi, I’m @lumanexx (EMMANUEL)
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Python, Javascript, C programming Language and MYSQL
 - 💞️ I’m looking to collaborate with software and devops enginners. 
